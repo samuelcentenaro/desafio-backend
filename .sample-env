@@ -1,2 +1,2 @@
-MONGODB=
+MONGODB=mongodb+srv://sco:samuel@cluster0.kjqu9.mongodb.net/grades?retryWrites=true&w=majority
 PORT=
